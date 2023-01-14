@@ -21,7 +21,7 @@ Graph
 
 Constructor:
 
-Graph(): Create an empty doubly linked circular list.
+Graph(): Create an graph. You can give each node a distinct name (in integer type).
 
 
 Public methods:
